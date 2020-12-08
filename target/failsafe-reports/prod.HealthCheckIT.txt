@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: br.com.raphael.TasksTest
+Test set: prod.HealthCheckIT
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.49 s - in br.com.raphael.TasksTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.444 s - in prod.HealthCheckIT
